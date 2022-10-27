@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Fred</name>
+   <family-name>Smith</family-name>
+   <nick-name>Freddy</nick-name>
+   <name>Robert</name>
+   <family-name>Smith</family-name>
+   <nick-name>Bob</nick-name>
+</root>
